@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Operation Quasar Fire",
   "main": "server.js",
-  "repository": "git@github.com:IrwinVargas/quasar.git",
+  "repository": "git@github.com:IrwinVargas/quasar_mercadolibre.git",
   "author": "Irwin Vargas",
   "license": "MIT",
   "private": true,
